@@ -6,13 +6,13 @@
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Mã đề (A/B/C):
-- Email:
-- Link repository:
-- Giờ bắt đầu:
-- Giờ kết thúc:
+- Họ tên: Doãn Thị Phương Thảo
+- MSSV: 2A202603255
+- Mã đề (A/B/C): B
+- Email: dthao18102004@gmail.com
+- Link repository: https://github.com/dpthao1810/K5-L2B-DoanThiPhuongThao_2A202603255MOTTracking.git
+- Giờ bắt đầu: 16h00
+- Giờ kết thúc: 18h30
 
 ## 1. Xem trước đoạn video (CP0)
 
@@ -20,11 +20,11 @@ Ghi **trước khi vẽ**, mỗi người một dòng.
 
 | Mã | Frame xuất hiện | Frame cuối thấy được | Rẽ / dừng / đổi tốc độ ở frame | Bị che ở frame | Ghi chú |
 |---|---|---|---|---|---|
-| P1 | | | | | |
-| P2 | | | | | |
-| P3 | | | | | |
-| P4 | | | | | |
-| P5 | | | | | |
+| P1 | 1|150 |Turns around frame 107-150 |39-50 |Wearing dark clothes, walking near the store entrance. |
+| P2 |1 |150 |None |None | Partially visible near the right edge of the frame.|
+| P3 |1 |150 | None| None|Moves behind another pedestrian. |
+| P4 |1 |147 |Stops around frame 41-110 |111-136 |None |
+| P5 |1 | 105|Stops around frame 41-106 |107-150 |Temporarily disappears from view. |
 
 ## 2. Keyframe và thời gian (CP1, CP4)
 
